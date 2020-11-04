@@ -37,11 +37,9 @@ You can connect with me here,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - NLP with state of the art techniques
+- 🔭 I’m currently working on - Image Processing with state of the art techniques
 - 🌱 I’m currently learning - Stable Feature extraction
-- 👯 I’m looking to collaborate on - NLP task
+- 👯 I’m looking to collaborate on - Image Processing task
 - 🤔 I’m looking for help with - Stable Feature extraction
 - 💬 Ask me about - any Machine Learning or deep learning related problem.
 - 📫 How to reach me: - Gmail -  mohdismailsiddiqui011@gmail.com
-- 😄 Pronouns: -  He,Him,his or Ze, Hir , Hirs
-- ⚡ Fun fact: -  Saint Lucia is the only country in the world named after a woman.🗺  👩🏼‍
