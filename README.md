@@ -1,38 +1,43 @@
+# Hey 👋 I'm Ismail Siddiqui 👨‍💻  
+### ML Engineer | CV Specialist | AI Builder
 
-# Hi there 👋 I'm Ismail  👾
-<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
-
-<img src="https://komarev.com/ghpvc/?username=ismailsiddiqui011" alt="ismailsiddiqui011" />
-  
-[![Repos Badge](https://badges.pufler.dev/repos/ismailsiddiqui011)](https://badges.pufler.dev)
-
+![Profile Views](https://komarev.com/ghpvc/?username=ismailsiddiqui011)  
+[![Repos Badge](https://badges.pufler.dev/repos/ismailsiddiqui011)](https://badges.pufler.dev)  
 [![Years Badge](https://badges.pufler.dev/years/ismailsiddiqui011)](https://badges.pufler.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - Image Processing with state of the art techniques
-- 🌱 I’m currently learning - Stable Feature extraction
-- 👯 I’m looking to collaborate on - Image Processing task
-- 💬 Ask me about - any Machine Learning or deep learning related problem.
-- 🔭 My area of interest is in Computer Vision. 
-- 🌱 I’m currently learning Applied Mathematics sideby.
-- 💬 Ask me about Machine Learning or Deep Learning.
-- 📫 Reach me: mohdismailsiddiqui011@gmail.com.
+🔍 I’m a Machine Learning Engineer with hands-on experience building real-world AI systems—from NSFW detection and LLM-powered chatbots to super-resolution and background removal. I specialize in Computer Vision and love crafting models that scale.
 
-You can also connect with me here,
+🧠 Currently pushing boundaries in Image Processing using cutting-edge ViT architectures, GANs, and AI-based enhancers. Always exploring stable feature extraction and diving deeper into applied mathematics.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ismailsiddiqui011/)
-[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/917309567376)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mohdismailsiddiqui)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ismail.lucifer)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://mohdismailsiddiqui011.medium.com/)
+💡 Built production-level tools at multiple firm, optimizing inference with TensorRT and deploying at scale with NVIDIA Triton. I'm all about speed, accuracy, and real impact.
 
-[![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=ismailsiddiqui011)](https://github.com/ismailsiddiqui011/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailsiddiqui011&layout=compact&hide=html" alt="ismailsiddiqui011" />
+---
 
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailsiddiqui011/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarnished_ismail)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://mohdismailsiddiqui011.medium.com/)
 
-<p align="center"> 
-<a href="https://linkedin.com/in/ismailsiddiqui011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/ismailsiddiqui011" height="20" width="20" /></a> |
-<a href="https://fb.com/mohdismailsiddiqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="20" /></a> | 
-<a href="https://www.kaggle.com/ismailsiddiqui011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/ismailsiddiqui011" height="20" width="20" /></a> | 
-<a href="https://instagram.com/ismail.lucifer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://instagram.com/ismail.lucifer" height="20" width="20" /></a>
+---
+### 🎯 Quick Stats
+
+- 🚀 15+ models deployed in production  
+- ⚙️ Serving 100K+ requests per day via Triton  
+- 🧠 98%+ accuracy on multiple CV/NLP models  
+- 🌍 Impacting thousands of users globally
+---
+
+### 🧰 My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/NVIDIA_Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
